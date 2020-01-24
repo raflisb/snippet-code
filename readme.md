@@ -1,6 +1,6 @@
 Here my snippet code of payment gateway integration using lumen 6 (laravel microframework)
 
-Payment-gateway : Midtrans ( https://docs.midtrans.com/en/core_api/integration_card_basic.html) 
+Payment-gateway : Midtrans CORE API ( https://docs.midtrans.com/en/core_api/integration_card_basic.html) 
 
 midtrans using JS to create a token from user input 
 
